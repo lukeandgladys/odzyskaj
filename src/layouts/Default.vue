@@ -90,7 +90,7 @@ font-size: 1.6em;
 }
 
 .header {
-  display: none!important;
+  
   display: flex;
   justify-content: space-between;
   align-items: center;
