@@ -135,6 +135,11 @@ blockquote {
     display: none;
   }
 }
+@media screen and (orientation: portrait)  {
+  body {
+    font-size: 1.1em;
+  }
+}
 
 
 
