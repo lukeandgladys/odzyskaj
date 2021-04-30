@@ -30,9 +30,9 @@
 <script>
 export default {
   methods: {
-    znikNavi(tytul) {
-      this.$emit('znik-navi', tytul)
-    }
+    // znikNavi(tytul) {
+    //   this.$emit('znik-navi', tytul)
+    // }
   }
 }
 </script>
@@ -48,6 +48,7 @@ li {
 li a {
   margin: 0;
   padding: 0 1em;
+
 
 }
 
@@ -83,7 +84,12 @@ li a {
      padding: 0 3vh;
      display: flex;
      flex-direction:  column;
-     flex-wrap: wrap;}
+     flex-wrap: wrap;
+   }
+   .nav li a {
+     font-size: 0.7em;
+   }
+
 }
 
 </style>

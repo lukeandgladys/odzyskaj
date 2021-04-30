@@ -3,7 +3,8 @@
     <header class="header">
 
         <h2>
-          <g-link to="/">odzyskaj.net</g-link><br class="por"><span >/{{podtytul}}</span>
+          <g-link to="/">odzyskaj.net</g-link><br class="por">
+          <!-- <span >/{{podtytul}}</span> -->
 
         </h2>
         <g-image v-if="!pokaNavi" src="~/assets/menu.svg" alt="menu" @click="pokaNavi=!pokaNavi" width="40em" > </g-image>
