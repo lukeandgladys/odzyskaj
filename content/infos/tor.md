@@ -1,5 +1,6 @@
 ---
 title: "tor"
+nr: 24
 ---
 
 ### Jak duch przez sieć
@@ -16,4 +17,4 @@ Pamiętaj, że sieć tor, przesyła pakiety przez wiele serwerów, aby były ano
 
 Poczytaj o sieci tor i możliwościach które daje. To bardzo ciekawa usługa i warto poświęcić jej trochę wolnego czasu.
 
-Tymczasem pogadajmy o kasie.
+Tymczasem pogadajmy o [kasie](/platnosci/ "płatności").

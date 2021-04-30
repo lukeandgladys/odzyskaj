@@ -1,5 +1,6 @@
 ---
 title: "szkolenia"
+nr: 30
 ---
 ### Szkolenia
 

@@ -1,5 +1,6 @@
 ---
 title: "back up"
+nr: 20
 ---
 
 ### O co ten cały ambaras?
@@ -23,4 +24,4 @@ Obie kopie – zaszyfrowane.
 
 Jeszcze sobie podziękujesz za to!
 
-Tymczasem przygotuj się na zgubienie telefonu.
+Tymczasem przygotuj się na [zgubienie telefonu](/sledzenie-telefonu/ "śledzenie telefonu").

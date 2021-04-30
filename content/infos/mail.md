@@ -1,5 +1,6 @@
 ---
 title: "Mail"
+nr: 12
 ---
 
 ### Zamknięte drzwi – otwarte okna
@@ -30,4 +31,4 @@ Po prostu kliknij i załóż konto. Od dziś ważną i ważką korespondencję p
 
 Jeszcze jedna ważna uwaga. Poczta będzie zaszyfrowana wtedy i tylko wtedy, jeśli adresat również posiada zaszyfrowaną pocztę. Zatem jeśli wyślesz wiadomość z protonmaila na gmail – z prywatności nici. Namów wszystkich swoich znajomych, bliskich, rodzinę i partnerów biznesowych, by też jak najszybciej założyli pocztę zaszyfrowaną. Ciesz się prywatną i bezpieczną korespondencją.
 
-Teraz inne kanały przesyłania prywatnych wiadomości.
+Teraz inne kanały przesyłania [prywatnych wiadomości](/komunikatory/ "komunikatory").

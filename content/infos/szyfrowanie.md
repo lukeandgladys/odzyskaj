@@ -1,5 +1,6 @@
 ---
 title: "Co to jest szyfrowanie?"
+nr: 02
 ---
 
 
@@ -18,4 +19,4 @@ Jak już wiemy – informacje w sieci krążą niczym niezabezpieczone. Można j
 Najprostsza odpowiedź brzmi – wszystko co się da. Zatem, komunikację pomiędzy nami, mejle, połączenia głosowe, wideo, komunikaty tekstowe, szyfrujemy połączenia w internecie, zapytania i wyniki poszukiwań w internecie, rodzaj i treść ściąganych danych, dane na komputerze, zdjęcia i wszystko inne na telefonie, dokumenty a także metadane. Itd..
 ### Jak szyfrujemy?
 
-Nie musimy posiadać tajemnej wiedzy. Wybierzemy odpowiednie usługi online oraz oprogramowanie na telefony i komputery, a maszyny zaszyfrują za nas. Jakie dokładnie i do czego – tego dowiemy sie z kolejnych etapów poradnika, gdzie krok po kroku pokażemy, jakie narzędzie posłuży do jakiego celu. Tymczasem przeczytaj kolejny rozdział o tym kto zbiera dane o nas i po co.
+Nie musimy posiadać tajemnej wiedzy. Wybierzemy odpowiednie usługi online oraz oprogramowanie na telefony i komputery, a maszyny zaszyfrują za nas. Jakie dokładnie i do czego – tego dowiemy sie z kolejnych etapów poradnika, gdzie krok po kroku pokażemy, jakie narzędzie posłuży do jakiego celu. Tymczasem przeczytaj kolejny rozdział o tym [kto zbiera dane](/big-data-modele/ "big data - modele") o nas i po co.

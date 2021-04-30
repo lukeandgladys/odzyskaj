@@ -1,5 +1,6 @@
 ---
 title: "przeglądarka"
+nr: 15
 ---
 
 ### Oko w sieci
@@ -18,4 +19,4 @@ Zaraz, zaraz..
 
 Przeglądarka chrome nadaje Ci unikatowy numer, śledzi Cię i zbiera dane o Tobie. Jeśli prywatność jest dla Ciebie ważna – nie używaj chroma, ani żadnych innych usług google. Google to usługi śmieciowe i tak też je traktujmy.
 
-Nie myl przeglądarki z wyszukiwarką.
+Nie myl przeglądarki z [wyszukiwarką](/wyszukiwarka/ "wyszukiwarki").

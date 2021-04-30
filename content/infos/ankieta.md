@@ -1,3 +1,7 @@
+---
+title: "ankieta"
+nr: 144
+---
 <!-- wp:html -->
 <div id="ankieta"><h3  v-if="step == 0">Rozgrzewka</h3>
 <!-- /wp:html -->
@@ -404,7 +408,7 @@ nie&nbsp;podglądamy. Dobrej Zabawy.</p>
 <!-- /wp:html -->
 
 <!-- wp:html -->
-<p><button class="toper" v-if="step != 0" @click.prevent="odejmijKrok"> WSTECZ</button>    | {{ step }} |  <button  class="toper" id="dalej" v-if="step != totalsteps" @click.prevent="dodajKrok"> DALEJ</button></p></div>
+<!-- <p><button class="toper" v-if="step != 0" @click.prevent="odejmijKrok"> WSTECZ</button>    | {{ step }} |  <button  class="toper" id="dalej" v-if="step != totalsteps" @click.prevent="dodajKrok"> DALEJ</button></p></div> -->
 <!-- /wp:html -->
 
 <!-- wp:html -->

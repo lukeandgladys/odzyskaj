@@ -1,5 +1,6 @@
 ---
 title: "płatności"
+nr: 25
 ---
 
 ### W realu gotówka
@@ -17,4 +18,4 @@ Czasem numery kart wyciekają! Co wtedy? Sposobów jest kilka. Załóż dwa kont
 
 Bardzo łatwo i bardzo wygodnie jest podłączyć swoją kartę do telefonu. Korzystamy z płatności google, bądź portfela apple. Pamiętaj tylko, że robiąc to, udostępniasz dane o swoich płatnościach nie tylko swojemu bankowi, ale również gigantom google i apple. Niestety, w tym przypadku, musisz balansować między wygodą a prywatnością.
 
-Zmieńmy temat i poszukajmy alternatywnych usług dla naszych codziennych zachowań.
+Zmieńmy temat i poszukajmy [alternatywnych usług](/zamienniki/ "zamienniki") dla naszych codziennych zachowań.

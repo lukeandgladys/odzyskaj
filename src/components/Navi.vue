@@ -14,12 +14,13 @@
 
 <static-query>
 {
-  allLesson {
+  allLesson  (sortBy:  "nr", order: ASC) {
     edges {
       node {
         title
         path
         id
+        nr
 
         }
       }
@@ -52,11 +53,9 @@ li a {
 
 
 .nav {
-  display: flex;
-  flex-direction:  row;
-  flex-wrap: wrap;
-  align-content: center;
-  align-items: baseline;
+
+
+  align-items: center;
   background-color: #000;
   color: #fff;
   margin-top: 12vh;
@@ -71,10 +70,20 @@ li a {
 }
 
 @media screen and (orientation: landscape) {
-   .nav{  margin: 15vh 0;  padding: 0 10vh;}
+   .nav{
+     margin: 15vh 0;
+     padding: 0 10vh;
+     display: flex;
+     flex-direction:  row;
+     flex-wrap: wrap;}
 }
 @media screen and (orientation: portrait) {
-   .nav{  margin: 15vh 0;  padding: 0 3vh;}
+   .nav{
+     margin: 15vh 0;
+     padding: 0 3vh;
+     display: flex;
+     flex-direction:  column;
+     flex-wrap: wrap;}
 }
 
 </style>

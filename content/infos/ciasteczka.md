@@ -1,5 +1,6 @@
 ---
 title: "ciasteczka"
+nr: 17
 ---
 
 ### Słodko – gorzkie ciasteczka
@@ -18,4 +19,4 @@ Codziennie w sieci śledzi nas ok 1000 trackerów
 Zależy Ci na prywatności – pozbądź się niechcianych trackerów internetowych. Pomoże Ci używanie odpowiedniej przeglądarki, która domyślnie usunie większość podejrzanych ogonów oraz zainstalowanie rozszerzeń od wyszukiwarki duckduckgo.
 Pierwsza pomoc za Tobą
 
-Dobrze, jesteś już tutaj – gratuluje! Jeśli stosujesz się do wszystkich kroków – Twoje bezpieczeństwo i ochrona prywatności w sieci, a przede wszystkim świadomość – są na całkiem niezłym poziomie. Możesz na tym pozostać, możesz pójść dalej – dalszą drogę rozpocznij od rozważenia swojego zaangażowania w social media.
+Dobrze, jesteś już tutaj – gratuluje! Jeśli stosujesz się do wszystkich kroków – Twoje bezpieczeństwo i ochrona prywatności w sieci, a przede wszystkim świadomość – są na całkiem niezłym poziomie. Możesz na tym pozostać, możesz pójść dalej – dalszą drogę rozpocznij od rozważenia swojego zaangażowania w [social media](/social-media/ "social media").

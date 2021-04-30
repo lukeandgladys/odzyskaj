@@ -1,5 +1,6 @@
 ---
 title: "social-media"
+nr: 18
 ---
 
 
@@ -36,4 +37,4 @@ Pamiętaj, że cała aktywność na portalach społecznościowych jest zapisywan
 
 Pamiętaj również, że nawet jeśli masz konto pod fałszywym nazwiskiem, bądź pseudonimem – Twoja prawdziwa tożsamość zostanie szybko przez algorytmy ustalona i przyporządkowana do Twojego konta, a to na podstawie znajomych, a to na podstawie lokalizacji.
 
-Teraz zajmijmy się Twoimi danymi. Zrobimy kopię Twoich danych, jednak wcześniej – zaszyfrujemy je.
+Teraz zajmijmy się Twoimi danymi. Zrobimy kopię Twoich danych, jednak wcześniej – [zaszyfrujemy je](/dane-szyfrowanie/ "zaszyfruj dane").

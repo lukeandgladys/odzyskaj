@@ -1,5 +1,6 @@
 ---
 title: "kim jesteśmy?"
+nr: 29
 ---
 
 ### My – czyli kto?

@@ -1,5 +1,6 @@
 ---
 title: "Telefon"
+nr: 09
 ---
 
 ### Osobisty szpieg
@@ -21,4 +22,4 @@ Twój osobisty telefon. Pomyśl, ile może zdradzić o Tobie, jeśli nie będzie
 
 Raz na jakiś czas warto przeresetować telefon do ustawień fabrycznych i wgrać wszystko od nowa.
 
-Na koniec wprowadzenia – kilka słów o atakach sieciowych.
+Na koniec wprowadzenia – kilka słów o [atakach sieciowych](/ataki-sieciowe/ "ataki sieciowe").

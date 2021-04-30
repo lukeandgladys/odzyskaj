@@ -1,5 +1,6 @@
 ---
 title: "Komunikatory"
+nr: 13
 ---
 
 ### Kiedyś a dziś
@@ -43,4 +44,4 @@ Wewnętrzne konta na portalach społecznościowych, czy to instagram czy tiktok,
 
 Myślę, że powyższe daje pewne rozeznanie. Pamiętaj, Twoje potrzeby – Ty decydujesz.
 
-Teraz zaktualizuj się.
+Teraz [zaktualizuj się](/aktualizacje/ "aktualizacje").

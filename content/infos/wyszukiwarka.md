@@ -1,5 +1,6 @@
 ---
 title: "Wyszukiwarka"
+nr: 16
 ---
 
 ### Kto się nie schował… Szukam
@@ -18,4 +19,4 @@ Jest wiele innych bingów, jahów, jandeksów i im podobnych. Nie wydają nam si
 
 Wejdź już teraz do swojej przeglądarki, wpisz adres polecanych przez nas wyszukiwarek, wypróbuj je, ustaw na strony startowe oraz jako domyślne wyszukiwarki i odkrywaj prywatny internet od innej, nowej strony. Baw się dobrze.
 
-A teraz co to są trackery internetowe, jak naprawdę smakują ciasteczka, oraz dlaczego dobrze wybraliśmy przeglądarkę i wyszukiwarkę.
+A teraz co to są [trackery internetowe](/ciasteczka/ "ciasteczka"), jak naprawdę smakują ciasteczka, oraz dlaczego dobrze wybraliśmy przeglądarkę i wyszukiwarkę.

@@ -1,5 +1,6 @@
 ---
 title: "metadane"
+nr: 04
 ---
 ### Czym są metadane?
 
@@ -14,4 +15,4 @@ Analiza metadanych konkretnych użytkowników może nam powiedziec o nich samych
 
 Weźmy jako przykład to, że nasze smartfony wskazują stale naszą lokalizację. Tylko na podstawie tej jednej danej, możemy nie tylko prześledzić gdzie spędzamy czas, ale również z kim się spotykamy i jak często. Zaczynasz dostrzegać problem?
 
-Tymczasem wystarczy nam świadomość, że metadane istnieją oraz że powinniśmy uważać na to co wraz z nimi o sobie udostępniamy. W kolejnych krokach będziemy zwracać uwagę na ten aspekt. Teraz kilka słów o weryfikowaniu źródeł.
+Tymczasem wystarczy nam świadomość, że metadane istnieją oraz że powinniśmy uważać na to co wraz z nimi o sobie udostępniamy. W kolejnych krokach będziemy zwracać uwagę na ten aspekt. Teraz kilka słów o [weryfikowaniu źródeł](/weryfikacja-zrodel/ "weryfikacja źródeł").

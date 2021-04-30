@@ -1,5 +1,6 @@
 ---
-title: "Licencje"
+title: "licencje"
+nr: 06
 ---
 
 ### Licencje otwarte
@@ -21,4 +22,4 @@ Takie licencje zawierają setki stron, tysiace paragrafów, niemożliwe są ani 
 
 My te licencje akceptujemy. Jednym kliknięciem. Bez czytania, bez zrozumienia, bez refleksji. Potem jesteśmy zdziwieni, czasem wstrząśnięci, że ktoś zamyka nam nasze konto na facebooku, które okazało się być wcale nie nasze, a facebooka. Bądź uważny. Pewnie nie znajdziesz czasu by przeczytać pełne licencje, ale w sieci dostępne są skrótowe opracowania tychże. Warto się z nimi zapoznać zanim klikniesz zgodę.
 
-Ażeby trochę odsapnąć – poczytajmy o programowaniu.
+Ażeby trochę odsapnąć – poczytajmy o [programowaniu](/programowanie/ "programowanie").

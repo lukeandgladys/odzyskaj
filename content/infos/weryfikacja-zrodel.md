@@ -1,5 +1,6 @@
 ---
 title: "weryfikacja źródeł"
+nr: 05
 ---
 
 ### Komu ufać?
@@ -14,4 +15,4 @@ Zawsze kiedy poszukujesz informacji w sieci, kiedy szukasz dla siebie usług lub
 
 To tyle, nie jesteśmy tu po to by się wymądrzać. Masz swój rozum – używaj go.
 
-Teraz zobacz licencje.
+Teraz zobacz [licencje] (/licencje/ "licencje").

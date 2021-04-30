@@ -1,5 +1,6 @@
 ---
 title: "śledzenie telefonu"
+nr: 21
 ---
 
 ### Hasło i backup
@@ -11,4 +12,4 @@ Na tym etapie wiesz już, że telefon powinien być zaszyfrowany. Dodatkowo has�
 
 Włącz śledzenie Twojego telefony. Jeśli zgubisz – możesz odnaleźć. Jeśli Ci skradziono – możesz udostępnić policji namiary.
 
-Następny krok – pomyśl o tymczasowej fałszywej tożsamości.
+Następny krok – pomyśl o tymczasowej [fałszywej tożsamości](/falszywa-tozsamosc/ "fałszywa tożsamość").

@@ -1,5 +1,6 @@
 ---
 title: "dane-szyfrowanie"
+nr: 19
 ---
 
 ### Szyfruj wszystkie dane
@@ -20,4 +21,4 @@ Najlepiej zaszyfrować cały dysk, wtedy przy starcie komputera czy telefonu, ur
 
 Na telefonach możesz skorzystać z gotowych mechanizmów szyfrowania całego telefonu. Przejrzyj ustawienia i na pewno znajdziesz. Uruchom szyfrowanie już dziś. Pamiętaj, ażeby najpierw zrobić kopię danych urządzenia, które chcesz zaszyfrować.
 
-Możemy również szyfrować tylko wybrane fragmenty dysku – partycje, foldery, pliki. W taki sposób najlepiej przygotowywać dane do backupu.
+Możemy również szyfrować tylko wybrane fragmenty dysku – partycje, foldery, pliki. W taki sposób najlepiej przygotowywać dane do [backupu](/back-up/ "back up").

@@ -1,5 +1,6 @@
 ---
 title: "zamienniki"
+nr: 26
 ---
 
 ### Szukaj alternatywy
@@ -16,4 +17,4 @@ Filmy – jeśli tworzysz filmy i cenisz oglądanie treści wysokiej jakości, p
 
 Myślę, że widzisz dokąd to zmierza. Trudno mi przewidzieć Twoje potrzeby. Myślę, że na tym etapie przewodnika, jesteś już na tyle świadomy, by samodzielnie znaleźć potrzebne Ci alternatywne rozwiązania.
 
-Na koniec jeszcze kilka słów o systemach operacyjnych.
+Na koniec jeszcze kilka słów o [systemach operacyjnych](/system-operacyjny/ "system operacyjny").

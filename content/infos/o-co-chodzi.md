@@ -1,5 +1,6 @@
 ---
-title: "landing-page"
+title: "o co chodzi"
+nr: 00
 ---
 
 
@@ -16,16 +17,8 @@ Są sposoby! Narzędzia, programy komuterowe i dobre nawyki. Pomożemy – krok 
 Prywatność jest nierozerwalnie związana z bezpieczeństwem. Dlatego będziemy mówić o jednym i drugim. Pamiętaj, że są to pojęcia płynne, nie zero-jedynkowe, zatem można być bardziej lub mniej bezpiecznym, czy też zadbać o swoją prywatność w większym, bądź mniejszym stopniu. Wszystko zależy od Ciebie. Ile czasu i uwagi poświęcisz tym problemom, jakich narzędzi użyjesz i jakie nawyki w sobie wyrobisz.
 ### Zacznij już dziś
 
-Przygotowaliśmy poradnik krok po kroku. Ale kolejność jaką wybierzesz, zależy tylko od Ciebie. Niektóre kroki wymagają namysłu i trzeba poświęcić im trochę czasu, inne załatwisz w minutę. Wszystkie kroki są ważne, ale nie musisz podjąć wszystkich wyzwań od razu. Ty sam zdecydujesz jak bardzo chcesz być bezpieczny i jak bardzo zależy Ci na Twojej prywatności. Dla ułatwienia podzieliliśmy zawatre tu informacje na trzy bloki:
-### 1. – wiedza elementarna –
+Przygotowaliśmy poradnik krok po kroku. Ale kolejność jaką wybierzesz, zależy tylko od Ciebie. Niektóre kroki wymagają namysłu i trzeba poświęcić im trochę czasu, inne załatwisz w minutę. Wszystkie kroki są ważne, ale nie musisz podjąć wszystkich wyzwań od razu. Ty sam zdecydujesz jak bardzo chcesz być bezpieczny i jak bardzo zależy Ci na Twojej prywatności.
 
-w tym bloku przedstawiamy informacje, które same w sobie nie stanowią istoty odzyskiwania sieci, jednakowoż zrozumienie ich jest kluczowe, by znać kontekst kroków z przewodnika i by w pełni kontrolować naszą prywatność i bezpieczeństwo w sieci, zacznij od tego co to właściwie jest ten internet?
-
-### 2. – pierwsza pomoc –
-
-to zestaw siedmiu prostych kroków, które dadzą Ci podstawową ochronę w sieci już teraz, już dziś, to zestaw obowiązkowy dla każdego rozpoczynającego świadome życie w sieci. Zacznij od haseł, jest to trudny, ale bardzo ważny temat. Warto poświęcić mu dużo czasu na początek.
-### 3. – pakiet ekspert –
-
-to kroki dla bardziej wymagających użytkowników, którzy zaczynają prawdziwie doceniać swoją prywatność.
-
-Zanim zaczniesz – możesz wypełnić ankietę. Ma charakter wprowadzający. Jest absolutnie dobrowolna. Pomoże Ci się zorientować jaki jest stan Twojej świadomości i nabrać odpowiedniej perspektywy. Powodzenia.
+Zanim zaczniesz – możesz wypełnić [ankietę](/ankieta/ "ankieta"). Ma charakter wprowadzający. Jest absolutnie dobrowolna. Pomoże Ci się zorientować jaki jest stan Twojej świadomości i nabrać odpowiedniej perspektywy.
+Zacznij od tego [czym właściwie jest internet?](/co-to-jest-internet/ "co to jest internet?")  
+Powodzenia.

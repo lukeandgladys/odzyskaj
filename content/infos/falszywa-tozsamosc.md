@@ -1,5 +1,6 @@
 ---
 title: "falszywa tożsamość"
+nr: 22
 ---
 
 ### Czy ja to zawsze ja?
@@ -9,4 +10,4 @@ Awatar
 
 Stwórzmy sobie więc fałszywą tożsamość. Wymyśl sobie imię i nazwisko, załóż fałszywy mejl. Idźmy dalej – wybierz sobie nieprawdziwą datę urodzenia i wygeneruj sobie pesel. Te informacje przydadzą nam się przy logowaniu do mniej istotnych usług.
 
-Teraz dołożymy jeszcze fałszywe połączenie z internetem.
+Teraz dołożymy jeszcze fałszywe połączenie z [internetem](/vpn/ "vpn").

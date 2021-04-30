@@ -37,6 +37,17 @@ export default {
   }
 }
 </script>
+<style>
+p a {
+ color: #000;
+ border-bottom: 3px solid #000;
+
+}
+p a:hover {
+  color: #fff;
+  background-color: #000;
+}
+</style>
 
 
 
@@ -62,10 +73,10 @@ export default {
 a {
   color: #000;
   text-decoration: none;
-  border-bottom: 3px solid #fff;
+  border-bottom: 5px solid #fff;
 }
 a:hover {
-  border-bottom: 3px solid #000;
+  border-bottom: 5px solid #000;
 }
 
 body {
@@ -90,7 +101,7 @@ font-size: 1.6em;
 }
 
 .header {
-  
+
   display: flex;
   justify-content: space-between;
   align-items: center;

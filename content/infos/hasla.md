@@ -1,5 +1,6 @@
 ---
 title: "hasła"
+nr: 11
 ---
 ### Po co nam hasła?
 
@@ -119,4 +120,4 @@ Do dzieła
 
 Pamiętaj, że czytanie o bezpieczeństwie nie czyni Cię bezpiecznym. Wiedzę tu zdobytą musisz zastosować w praktyce. Do dzieła. Zmień hasła – już dziś.
 
-Zamkneliśmy drzwi – zamknijmy okna.
+Zamkneliśmy drzwi – [zamknijmy okna](/mail/ "mail szyfrowany").

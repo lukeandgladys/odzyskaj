@@ -1,5 +1,6 @@
 ---
 title: "ataki-sieciowe"
+nr: 10
 ---
 
 ### Uważność
@@ -22,4 +23,4 @@ Obronić się całkiem prosto. Nie ufajmy obcym załącznikom i nie otwierajmy i
 Na wielu stronach pojawiają się proste prośby o wpisanie nr telefonu i potwierdzenie tego wysłanym kodem, a to by zobaczyć jakiś plik, a to by obejrzeć jakiś film online. Często tym sposobem zapisujemy się automatycznie na esemesy premium. Dolicza nam to pewną kwotę do rachunku, często co miesiąc. Uwążajmy na takie sprawy. Nie jest to atak bardzo dla nas kosztowny, ale zawsze. Bądź uważny, obroń się przed tym. Wystarczy wyłączyć esemesy premium u swojego operatora.
 ### Do dzieła
 
-Myślę, że tyle informacji wprowadzających na początek wystarczy. Czas przejść do pierwszej pomocy i podjąć konkretne działania. Powodzenia.
+Myślę, że tyle informacji wprowadzających na początek wystarczy. Czas podjąć konkretne działania. [Hasła](/hasla/ "hasła").

@@ -1,6 +1,7 @@
 ---
-title: "Co to jest internet?" 
+title: "Co to jest internet?"
 column: "one"
+nr: 01
 ---
 
 ### W sieci połączeń
@@ -38,4 +39,4 @@ Pakiety pędzą nieskrępowane po światłowodach do swojego celu. Wszystko co p
 Sieć może być nieskończoną skarbnicą wiedzy o Tobie. Wystraszony? Słusznie. Co robić?
 W sieci wszystko i zawsze należy szyfrować
 
-W sukurs idzie nam szyfrowanie. Chcesz informacje o tym co oglądasz, z kim rozmawiasz i czego szukasz w sieci zostawić dla siebie – używaj szyfrowania. Nie musisz się obawiać czy podołasz, w dzisiejszych czasach szyfrują za nas usługi i oprogramowanie, którego możemy używać. Musimy tylko dokonać właściwych wyborów. O tym opowiemy w dalszych etapach przewodnika. Teraz poczytaj czym właściwie jest [szyfrowanie](https://odzyskaj.net/wiedza-elementarna/szyfrowanie/ "poczytaj o szyfrowaniu"), co szyfrować i jak się o tego zabrać.
+W sukurs idzie nam szyfrowanie. Chcesz informacje o tym co oglądasz, z kim rozmawiasz i czego szukasz w sieci zostawić dla siebie – używaj szyfrowania. Nie musisz się obawiać czy podołasz, w dzisiejszych czasach szyfrują za nas usługi i oprogramowanie, którego możemy używać. Musimy tylko dokonać właściwych wyborów. O tym opowiemy w dalszych etapach przewodnika. Teraz poczytaj czym właściwie jest [szyfrowanie](/co-to-jest-szyfrowanie/ "poczytaj o szyfrowaniu"), co szyfrować i jak się o tego zabrać.

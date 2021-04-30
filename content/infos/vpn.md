@@ -1,5 +1,6 @@
 ---
 title: "vpn"
+nr: 23
 ---
 
 ### Virtual Privat Network
@@ -23,4 +24,4 @@ Każdy krok w stronę zwiększenia prywatności i bezpieczeństwa, to dobry krok
 
 Pamiętaj, że VPN nie czyni Cię niewidzialnym w sieci i szyfrowany jest tylko ruch pomiędzy Tobą a pierwszym serwerem.
 
-Teraz czas na giganta anonimowego internetu – TOR.
+Teraz czas na giganta anonimowego internetu – [TOR](/tor/ "tor").

@@ -1,5 +1,6 @@
 ---
 title: "Open - source"
+nr: 08
 ---
 
 ### Po co nam otwarte źródła?
@@ -22,4 +23,4 @@ A co jeśli nie umiem programować, nie umiem podejrzeć kodu, a jeśli nawet po
 
 Miażdżąca większość serwerów sieciowych to open source. Wszystkie superkomputery to open source i wreszcie większość programów, które polecamy w przewodniku to open source. Wszędzie tam gdzie to możliwe używaj oprogramowania open source.
 
-Teraz przez chwilę pomyśl o Twoim telefonie.
+Teraz przez chwilę pomyśl o Twoim [telefonie](/telefon/ "telefon").

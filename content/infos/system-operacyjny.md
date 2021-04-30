@@ -1,5 +1,6 @@
 ---
 title: "system operacyjny"
+nr: 27
 ---
 
 ### Wisienka na torcie
@@ -18,4 +19,4 @@ Debian – król serwerów i szkielet internetu, raczej dla zaawansowanych użyt
 Kali – dystrybucja do wyszukiwania słabych punktów sieci, tutaj raczej jako ciekawostka
 Offset
 
-Wraz z linuxem zmierza do ciebie niezliczona mnogość programów. Linux, jak również większość oprogramowania, jest open source i jest za darmo. Pomyśl. Przetestuj. Kilka słów na koniec.
+Wraz z linuxem zmierza do ciebie niezliczona mnogość programów. Linux, jak również większość oprogramowania, jest open source i jest za darmo. Pomyśl. Przetestuj. [Kilka słów na koniec](/co-dalej/ "co dalej?").
