@@ -1,13 +1,11 @@
 <template>
   <Layout>
     <div class="soon">
+      <h3>Szykujemy Wielkie Zmiany! </h3>
+      <h3 style="max-width: 800px;" >Nowe otwarcie z nowym rokiem szkolnym</h3>
+      <h3>Szczegóły wkrótce</h3>
+            
 
-      <h3>Zmiany zmiany ..</h3>
-      <h3>1 VI 2021 – 12:00</h3>
-      <h3>Nowe otwarcie!</h3>
-      <h3>Prezent dla wszystkich</h3>
-      <h3>Dzieci i dorosłych</h3>
-      <h3>Bądż wtedy z nami.</h3>
 
       <h3 style="max-width: 800px;">Tymczasem skorzystaj z przewodnika <g-link style="color: #fff; background-color: #000;" to="/o-co-chodzi/" >krok–po–kroku</g-link> lub wybierz interesujący Cię temat z menu.</h3>
     </div>
