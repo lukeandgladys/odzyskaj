@@ -1,13 +1,11 @@
 <template>
   <Layout>
     <div class="soon">
-      <h3>Szykujemy Wielkie Zmiany! </h3>
-      <h3 style="max-width: 800px;" >Nowe otwarcie z nowym rokiem szkolnym</h3>
-      <h3>Szczegóły wkrótce</h3>
+
             
 
 
-      <h3 style="max-width: 800px;">Tymczasem skorzystaj z przewodnika <g-link style="color: #fff; background-color: #000;" to="/o-co-chodzi/" >krok–po–kroku</g-link> lub wybierz interesujący Cię temat z menu.</h3>
+      <h3 style="max-width: 800px;">Skorzystaj z przewodnika <g-link style="color: #fff; background-color: #000;" to="/o-co-chodzi/" >krok–po–kroku</g-link> lub wybierz interesujący Cię temat z menu.</h3>
     </div>
 
 
