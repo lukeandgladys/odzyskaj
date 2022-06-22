@@ -17,8 +17,5 @@ Są sposoby! Narzędzia, programy komuterowe i dobre nawyki. Pomożemy – krok 
 Prywatność jest nierozerwalnie związana z bezpieczeństwem. Dlatego będziemy mówić o jednym i drugim. Pamiętaj, że są to pojęcia płynne, nie zero-jedynkowe, zatem można być bardziej lub mniej bezpiecznym, czy też zadbać o swoją prywatność w większym, bądź mniejszym stopniu. Wszystko zależy od Ciebie. Ile czasu i uwagi poświęcisz tym problemom, jakich narzędzi użyjesz i jakie nawyki w sobie wyrobisz.
 ### Zacznij już dziś
 
-Przygotowaliśmy poradnik krok po kroku. Ale kolejność jaką wybierzesz, zależy tylko od Ciebie. Niektóre kroki wymagają namysłu i trzeba poświęcić im trochę czasu, inne załatwisz w minutę. Wszystkie kroki są ważne, ale nie musisz podjąć wszystkich wyzwań od razu. Ty sam zdecydujesz jak bardzo chcesz być bezpieczny i jak bardzo zależy Ci na Twojej prywatności.
-
-Zanim zaczniesz – możesz wypełnić [ankietę](/ankieta/ "ankieta"). Ma charakter wprowadzający. Jest absolutnie dobrowolna. Pomoże Ci się zorientować jaki jest stan Twojej świadomości i nabrać odpowiedniej perspektywy.
-Zacznij od tego [czym właściwie jest internet?](/co-to-jest-internet/ "co to jest internet?")  
+Przygotowaliśmy poradnik krok po kroku. Ale kolejność jaką wybierzesz, zależy tylko od Ciebie. Niektóre kroki wymagają namysłu i trzeba poświęcić im trochę czasu, inne załatwisz w minutę. Wszystkie kroki są ważne, ale nie musisz podjąć wszystkich wyzwań od razu. Ty sam zdecydujesz jak bardzo chcesz być bezpieczny i jak bardzo zależy Ci na Twojej prywatności. Zacznij od tego [czym właściwie jest internet?](/co-to-jest-internet/ "co to jest internet?")  
 Powodzenia.
