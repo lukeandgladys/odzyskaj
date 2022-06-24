@@ -89,7 +89,7 @@ li a {
      margin: 0;
      padding: 0;
      list-style:none;
-     height: 2em;
+     
    }
    .nav li a {
      font-size: 0.7em;
