@@ -30,21 +30,15 @@
 <script>
 export default {
   methods: {
-    // znikNavi(tytul) {
-    //   this.$emit('znik-navi', tytul)
-    // }
+    znikNavi(tytul) {
+      this.$emit('znik-navi', tytul)
+    }
   }
 }
 </script>
 <style scoped>
 
-li {
-  margin: 0;
-  padding: 0;
-  list-style:none;
-  flex: 1 1 auto;
 
-}
 li a {
   margin: 0;
   padding: 0 1em;
@@ -54,8 +48,6 @@ li a {
 
 
 .nav {
-
-
   align-items: center;
   background-color: #000;
   color: #fff;
@@ -76,7 +68,14 @@ li a {
      padding: 0 10vh;
      display: flex;
      flex-direction:  row;
-     flex-wrap: wrap;}
+     flex-wrap: wrap;
+   }
+   nav li {
+     margin: 0;
+     padding: 0;
+     list-style:none;
+     height: 4em;
+   }
 }
 @media screen and (orientation: portrait) {
    .nav{
@@ -85,6 +84,12 @@ li a {
      display: flex;
      flex-direction:  column;
      flex-wrap: wrap;
+   }
+   nav li {
+     margin: 0;
+     padding: 0;
+     list-style:none;
+     height: 2em;
    }
    .nav li a {
      font-size: 0.7em;
